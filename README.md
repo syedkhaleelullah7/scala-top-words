@@ -1,4 +1,4 @@
-# scala-top-words
+# Scala-Top-Words Analyser
 
 Top Words Analyzer
 
